@@ -5,3 +5,6 @@ credit to Umeshb from https://www.codeproject.com/Articles/6899/Changing-printer
 I've made some tiny changes on top of work mentioned above to make this work with 64-bit systems. Elevated access required.
 
 This class will let you change some of the basic Windows printer functionalities.
+
+See below for license info:
+https://www.codeproject.com/info/cpol10.aspx
